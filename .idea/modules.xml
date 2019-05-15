@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-config-server/pinxixi-config-server.iml" filepath="$PROJECT_DIR$/pinxixi-config-server/pinxixi-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-eureka-server/pinxixi-eureka-server.iml" filepath="$PROJECT_DIR$/pinxixi-eureka-server/pinxixi-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-parent.iml" filepath="$PROJECT_DIR$/pinxixi-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/pinxixi-plat-parent.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/pinxixi-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-zuul-gateway/pinxixi-zuul-gateway.iml" filepath="$PROJECT_DIR$/pinxixi-zuul-gateway/pinxixi-zuul-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/plat-interface/plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/plat-service/plat-service.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/plat-service.iml" />
+    </modules>
+  </component>
+</project>
