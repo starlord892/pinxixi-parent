@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef893d99-cfe9-4742-8535-1a8a52579eba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_0_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-core/basic-core.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-core/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-core/src/main/java/cn/itsource/pinxixi/query/BaseQuery.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/basic-generator.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/src/main/java/cn/itsource/basic/generoter/CodeGen.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/mybatis-plus-product.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/templates/controller.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/templates/query.java.vm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/basic-parent/pom.xml" afterPath="$PROJECT_DIR$/basic-parent/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/target/classes/cn/itsource/pinxixi/PlatApplication.class" afterPath="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/target/classes/cn/itsource/pinxixi/PlatApplication.class" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-interface/pom.xml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-interface/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-interface/product-interface.iml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-interface/product-interface.iml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/target/classes/cn/itsource/pinxixi/ProductApplication.class" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/target/classes/cn/itsource/pinxixi/ProductApplication.class" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-zuul-gateway/target/classes/cn/itsource/pinxixi/config/DocumentationConfig.class" afterPath="$PROJECT_DIR$/pinxixi-zuul-gateway/target/classes/cn/itsource/pinxixi/config/DocumentationConfig.class" />
-    </list>
+    <list default="true" id="ef893d99-cfe9-4742-8535-1a8a52579eba" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/basic-parent/basic-util/target/" />
@@ -97,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/BrandServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+              <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -119,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/BrandController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -129,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/BrandMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#529#530#0" expanded="true" />
@@ -807,7 +762,7 @@
       <workItem from="1557967534951" duration="838000" />
       <workItem from="1557969058101" duration="2414000" />
       <workItem from="1557989810686" duration="1259000" />
-      <workItem from="1557995831795" duration="16973000" />
+      <workItem from="1557995831795" duration="17457000" />
     </task>
     <task id="LOCAL-00001" summary="处理跨域问题">
       <created>1557999568567</created>
@@ -820,7 +775,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36732000" />
+    <option name="totallyTimeSpent" value="37216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -844,7 +799,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.062222224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.062222224" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23240939" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1325,7 +1280,7 @@
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#529#530#0" expanded="true" />
@@ -1337,7 +1292,7 @@
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/BrandMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1347,7 +1302,7 @@
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1365,7 +1320,7 @@
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/BrandServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="25" column="71" lean-forward="true" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+          <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
           <folding />
         </state>
       </provider>
