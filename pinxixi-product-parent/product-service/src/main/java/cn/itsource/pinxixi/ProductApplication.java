@@ -8,8 +8,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableSwagger2
-public class PlatApplication {
+public class ProductApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(PlatApplication.class,args);
+        SpringApplication.run(ProductApplication.class,args);
     }
 }

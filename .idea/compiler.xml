@@ -12,6 +12,8 @@
         <module name="pinxixi-zuul-gateway" />
         <module name="plat-interface" />
         <module name="plat-service" />
+        <module name="product-interface" />
+        <module name="product-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,9 +23,12 @@
       <module name="pinxixi-eureka-server" target="1.8" />
       <module name="pinxixi-parent" target="1.8" />
       <module name="pinxixi-plat-parent" target="1.8" />
+      <module name="pinxixi-product-parent" target="1.8" />
       <module name="pinxixi-zuul-gateway" target="1.8" />
       <module name="plat-interface" target="1.8" />
       <module name="plat-service" target="1.8" />
+      <module name="product-interface" target="1.8" />
+      <module name="product-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

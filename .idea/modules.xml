@@ -8,9 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/pinxixi-eureka-server/pinxixi-eureka-server.iml" filepath="$PROJECT_DIR$/pinxixi-eureka-server/pinxixi-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinxixi-parent.iml" filepath="$PROJECT_DIR$/pinxixi-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/pinxixi-plat-parent.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/pinxixi-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-product-parent/pinxixi-product-parent.iml" filepath="$PROJECT_DIR$/pinxixi-product-parent/pinxixi-product-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinxixi-zuul-gateway/pinxixi-zuul-gateway.iml" filepath="$PROJECT_DIR$/pinxixi-zuul-gateway/pinxixi-zuul-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/plat-interface/plat-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinxixi-plat-parent/plat-service/plat-service.iml" filepath="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/product-interface.iml" filepath="$PROJECT_DIR$/pinxixi-product-parent/product-interface/product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" filepath="$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" />
     </modules>
   </component>
 </project>
