@@ -9,6 +9,8 @@
         <module name="basic-core" />
         <module name="basic-generator" />
         <module name="basic-util" />
+        <module name="common-interface" />
+        <module name="common-service" />
         <module name="pinxixi-config-server" />
         <module name="pinxixi-eureka-server" />
         <module name="pinxixi-zuul-gateway" />
@@ -23,6 +25,9 @@
       <module name="basic-generator" target="1.8" />
       <module name="basic-parent" target="1.8" />
       <module name="basic-util" target="1.8" />
+      <module name="common-interface" target="1.8" />
+      <module name="common-service" target="1.8" />
+      <module name="pinxixi-common-parent" target="1.8" />
       <module name="pinxixi-config-server" target="1.8" />
       <module name="pinxixi-eureka-server" target="1.8" />
       <module name="pinxixi-parent" target="1.8" />

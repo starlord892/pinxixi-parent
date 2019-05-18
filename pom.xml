@@ -15,6 +15,7 @@
         <module>pinxixi-plat-parent</module>
         <module>pinxixi-config-server</module>
         <module>pinxixi-product-parent</module>
+        <module>pinxixi-common-parent</module>
     </modules>
 
 
