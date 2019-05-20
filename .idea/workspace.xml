@@ -2,21 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef893d99-cfe9-4742-8535-1a8a52579eba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/common-interface.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/common-service.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/pinxixi-common-parent.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_3_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/RedisClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/TemplateClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/RedisController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/TemplateController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/RedisUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/VelocityUtils.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java" />
-      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/BrandMapper.xml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/BrandMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/common-interface.iml" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/common-interface.iml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-common-parent/common-service/common-service.iml" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/common-service.iml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-common-parent/common-service/target/classes/bootstrap.yml" afterPath="$PROJECT_DIR$/pinxixi-common-parent/common-service/target/classes/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/product-service.iml" />
+      <change beforePath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" afterPath="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,55 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/pom.xml">
+      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="114">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -124,9 +98,71 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="95" column="12" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="95" selection-end-column="12" />
+            <state relative-caret-position="1691">
+              <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/BrandController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductTypeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/ProductTypeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/BrandMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,13 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic-parent/basic-util/src/main/java/cn/itsource/pinxixi/util/PageList.java" />
-        <option value="$PROJECT_DIR$/pinxixi-zuul-gateway/src/main/java/cn/itsource/pinxixi/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/pinxixi-config-server/pom.xml" />
-        <option value="$PROJECT_DIR$/pinxixi-config-server/src/main/java/cn/itsource/pinxixi/ConfigServerApplication.java" />
-        <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/pom.xml" />
-        <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/src/main/java/cn/itsource/pinxixi/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/src/main/java/cn/itsource/pinxixi/service/IEmployeeService.java" />
         <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/src/main/java/cn/itsource/pinxixi/service/impl/EmployeeServiceImpl.java" />
         <option value="$PROJECT_DIR$/pinxixi-plat-parent/plat-service/src/main/java/cn/itsource/pinxixi/controller/LoginController.java" />
@@ -184,7 +213,6 @@
         <option value="$PROJECT_DIR$/basic-parent/basic-core/src/main/java/cn/itsource/aigou/query/BaseQuery.java" />
         <option value="$PROJECT_DIR$/basic-parent/basic-core/src/main/java/cn/itsource/pinxixi/query/BaseQuery.java" />
         <option value="$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/mybatis-plus-product.properties" />
-        <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-interface/pom.xml" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/BrandServiceImpl.java" />
@@ -194,15 +222,23 @@
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/BrandMapper.java" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/ProductTypeServiceImpl.java" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/ProductType.java" />
-        <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/BrandMapper.xml" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java" />
         <option value="$PROJECT_DIR$/pinxixi-common-parent/pom.xml" />
         <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java" />
         <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml" />
         <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java" />
         <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/RedisClient.java" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/TemplateClient.java" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/VelocityUtils.java" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/TemplateController.java" />
+        <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java" />
       </list>
     </option>
   </component>
@@ -226,9 +262,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-36" />
-    <option name="y" value="102" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="76" />
     <option name="width" value="1195" />
     <option name="height" value="831" />
   </component>
@@ -251,6 +287,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,32 +305,7 @@
             <path>
               <item name="pinxixi-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinxixi-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinxixi-common-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinxixi-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinxixi-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinxixi-common-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinxixi-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinxixi-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinxixi-common-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinxixi-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinxixi-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinxixi-common-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="pinxixi-product-parent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pinxixi-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -350,9 +364,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,18 +383,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pinxixi-web-parent/vue-admin-master" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-common-parent\common-service\src\main\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-common-parent\common-interface\src\main\java\cn\itsource\pinxixi\client" />
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-common-parent\common-service\src\main\java\cn\itsource\pinxixi\util" />
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-product-parent\product-service\src\main\java\cn\itsource\pinxixi" />
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\basic-parent\basic-core\src\main\java" />
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\basic-parent\basic-generator\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.itsource.pinxixi.config" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-product-parent\product-service\src\main\java\cn\itsource\pinxixi" />
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\basic-parent\basic-core\src\main\java" />
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\basic-parent\basic-generator\src\main\java" />
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\basic-parent\basic-generator\src\main\resources" />
-      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-product-parent\product-service\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\pinxixi\pinxixi-parent\pinxixi-common-parent\common-service\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,7 +409,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ProductApplication">
+  <component name="RunManager" selected="Spring Boot.CommonApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -584,7 +595,9 @@
       <workItem from="1557995831795" duration="17457000" />
       <workItem from="1558054128847" duration="3370000" />
       <workItem from="1558083493205" duration="656000" />
-      <workItem from="1558159476498" duration="1939000" />
+      <workItem from="1558159476498" duration="4663000" />
+      <workItem from="1558227487480" duration="3046000" />
+      <workItem from="1558255725564" duration="1439000" />
     </task>
     <task id="LOCAL-00001" summary="处理跨域问题">
       <created>1557999568567</created>
@@ -597,16 +610,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43181000" />
+    <option name="totallyTimeSpent" value="50390000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.023454158" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -616,16 +629,15 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35444444" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20255864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -635,6 +647,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -692,38 +705,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pinxixi-zuul-gateway/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic-parent/basic-generator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/templates/query.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic-parent/basic-generator/src/main/resources/templates/controller.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/query/BrandQuery.java" />
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/query/ProductTypeQuery.java" />
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/query/ProductQuery.java" />
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/domain/Brand.java" />
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/domain/Product.java" />
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/domain/ProductType.java" />
@@ -762,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -782,15 +755,203 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/ProductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/ProductTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/code/newspublish/src/main/java/cn/itsource/service/impl/TypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/CommonApplication.java" />
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java" />
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/RedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-interface/src/main/java/cn/itsource/pinxixi/client/TemplateClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/VelocityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/util/RedisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/controller/TemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1262">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-665">
+        <state relative-caret-position="-3480">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="220" column="1" lean-forward="false" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -808,117 +969,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/ProductTypeController.java">
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/query/ProductTypeQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IProductTypeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/ProductType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2945">
-          <caret line="220" column="1" lean-forward="false" selection-start-line="220" selection-start-column="1" selection-end-line="220" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#838#839#0" expanded="false" />
-            <element signature="e#869#870#0" expanded="false" />
-            <element signature="e#928#929#0" expanded="false" />
-            <element signature="e#968#969#0" expanded="false" />
-            <element signature="e#1729#1730#0" expanded="false" />
-            <element signature="e#1754#1755#0" expanded="false" />
-            <element signature="e#1788#1789#0" expanded="false" />
-            <element signature="e#1816#1817#0" expanded="false" />
-            <element signature="e#1851#1852#0" expanded="false" />
-            <element signature="e#1884#1885#0" expanded="false" />
-            <element signature="e#1934#1935#0" expanded="false" />
-            <element signature="e#1978#1979#0" expanded="false" />
-            <element signature="e#2013#2014#0" expanded="false" />
-            <element signature="e#2046#2047#0" expanded="false" />
-            <element signature="e#2096#2097#0" expanded="false" />
-            <element signature="e#2140#2141#0" expanded="false" />
-            <element signature="e#2171#2172#0" expanded="false" />
-            <element signature="e#2198#2199#0" expanded="false" />
-            <element signature="e#2238#2239#0" expanded="false" />
-            <element signature="e#2270#2271#0" expanded="false" />
-            <element signature="e#2298#2299#0" expanded="false" />
-            <element signature="e#2324#2325#0" expanded="false" />
-            <element signature="e#2360#2361#0" expanded="false" />
-            <element signature="e#2390#2391#0" expanded="false" />
-            <element signature="e#2421#2422#0" expanded="false" />
-            <element signature="e#2448#2449#0" expanded="false" />
-            <element signature="e#2488#2489#0" expanded="false" />
-            <element signature="e#2520#2521#0" expanded="false" />
-            <element signature="e#2558#2559#0" expanded="false" />
-            <element signature="e#2592#2593#0" expanded="false" />
-            <element signature="e#2646#2647#0" expanded="false" />
-            <element signature="e#2692#2693#0" expanded="false" />
-            <element signature="e#2729#2730#0" expanded="false" />
-            <element signature="e#2761#2762#0" expanded="false" />
-            <element signature="e#2812#2813#0" expanded="false" />
-            <element signature="e#2854#2855#0" expanded="false" />
-            <element signature="e#2885#2886#0" expanded="false" />
-            <element signature="e#2912#2913#0" expanded="false" />
-            <element signature="e#2952#2953#0" expanded="false" />
-            <element signature="e#2984#2985#0" expanded="false" />
-            <element signature="e#3022#3023#0" expanded="false" />
-            <element signature="e#3055#3056#0" expanded="false" />
-            <element signature="e#3108#3109#0" expanded="false" />
-            <element signature="e#3152#3153#0" expanded="false" />
-            <element signature="e#3187#3188#0" expanded="false" />
-            <element signature="e#3218#3219#0" expanded="false" />
-            <element signature="e#3266#3267#0" expanded="false" />
-            <element signature="e#3306#3307#0" expanded="false" />
-            <element signature="e#3344#3345#0" expanded="false" />
-            <element signature="e#3378#3379#0" expanded="false" />
-            <element signature="e#3432#3433#0" expanded="false" />
-            <element signature="e#3478#3479#0" expanded="false" />
-            <element signature="e#3517#3518#0" expanded="false" />
-            <element signature="e#3554#3555#0" expanded="false" />
-            <element signature="e#3612#3613#0" expanded="false" />
-            <element signature="e#3664#3665#0" expanded="false" />
-            <element signature="e#3716#3717#0" expanded="false" />
-            <element signature="e#3746#3747#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-interface/src/main/java/cn/itsource/pinxixi/domain/Brand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1266">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#529#530#0" expanded="false" />
-            <element signature="e#597#598#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -930,85 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/ProductTypeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/ProductTypeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
+        <state relative-caret-position="95">
           <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/mapper/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/code/newspublish/src/main/java/cn/itsource/service/impl/TypeServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/IBrandService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/BrandServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="71" lean-forward="false" selection-start-line="25" selection-start-column="71" selection-end-line="25" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/service/impl/ProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1021,105 +1008,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/BrandMapper.xml">
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-          <folding>
-            <marker date="1558057660846" expanded="true" signature="1891:1995" ph="SELECT b.*,p... t_brand" />
-            <marker date="1558057660846" expanded="true" signature="2110:2245" ph="SELECT b.*,p... t_brand" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/resources/cn/itsource/pinxixi/mapper/ProductTypeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="95" column="12" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="95" selection-end-column="12" />
+        <state relative-caret-position="1691">
+          <caret line="89" column="21" lean-forward="false" selection-start-line="89" selection-start-column="21" selection-end-line="89" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/CommonApplication.java">
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/controller/ProductTypeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="-209">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/config/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/product-service/src/main/java/cn/itsource/pinxixi/ProductApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/java/cn/itsource/pinxixi/CommonApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinxixi-common-parent/common-service/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/pinxixi-product-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
